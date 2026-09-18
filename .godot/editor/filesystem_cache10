@@ -1,30 +1,31 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1789756122
+::res://::1789761810
 asset sources.txt::TextFile::-1::1789745023::0::1::::<><><>0<>0<><>::
-export_presets.cfg::TextFile::-1::1789591796::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1789756175::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::5991746675164270125::1788615118::1789382890::1::::<><><>0<>0<>b524d7562d655860d6e95c77f9f4f098<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://audio/::1789585333
+README.md::TextFile::-1::1789760556::0::1::::<><><>0<>0<><>::
+::res://audio/::1789758381
 dragon-studio-car-honk-386166.mp3::AudioStreamMP3::8390252122808056041::1789585239::1789585333::1::::<><><>0<>0<>11efa1e141c8e9c04f1dfa716d7c67be<>res://.godot/imported/dragon-studio-car-honk-386166.mp3-87f53a25f15b6eaf2e4eee3e9b2c87b7.mp3str::
 jaywalkgameOST.mp3::AudioStreamMP3::5471984230377659505::1789584293::1789584835::1::::<><><>0<>0<>bfa2bd5cc7339e572dabfa3c9f830353<>res://.godot/imported/jaywalkgameOST.mp3-a703d0f7a142677bc7bc4efb7abce96d.mp3str::
 km007-car-pass-by-9111.mp3::AudioStreamMP3::812189514916901062::1789585261::1789585333::1::::<><><>0<>0<>0640d8901dd68a749c9feb87e3247a5e<>res://.godot/imported/km007-car-pass-by-9111.mp3-e250bd14ed4755cf9f94c191535646e0.mp3str::
 spinopel-passing-car-393073.mp3::AudioStreamMP3::553369393670647820::1789585255::1789585333::1::::<><><>0<>0<>dbbf05c3642303b72db02439f9102930<>res://.godot/imported/spinopel-passing-car-393073.mp3-1adc1d22f64f86802a4e2aec61629349.mp3str::
 tanweraman-car-pass-by-337871.mp3::AudioStreamMP3::3198670238649078718::1789585030::1789585038::1::::<><><>0<>0<>04f971ba0d2c0f48a2150c97e4ce4a81<>res://.godot/imported/tanweraman-car-pass-by-337871.mp3-ed3de35a25ed2b796f0a9296bdf05c13.mp3str::
-::res://builds/::1789591396
-::res://builds/web/::1789591795
-index.apple-touch-icon.png::CompressedTexture2D::4129218720755635594::1789591795::1789591453::1::::<><><>0<>0<>44d120a7ae2716953a1ba27059254902<>res://.godot/imported/index.apple-touch-icon.png-829bd6566b1ab329ce6e0fe101c50e36.ctex::
-index.icon.png::CompressedTexture2D::301807347522938816::1789591795::1789591453::1::::<><><>0<>0<>7132b9ef743cbbd46f872ff15f7672f3<>res://.godot/imported/index.icon.png-1d537cdb021c40f184d1277d96fd0f0f.ctex::
-index.png::CompressedTexture2D::239628558690118602::1789591795::1789591453::1::::<><><>0<>0<>0d09e7f93bb1fb2db0701a3ce81bc629<>res://.godot/imported/index.png-2770f543c84e6b55d99f3bb624b49866.ctex::
-::res://fonts/::1789421714
+::res://builds/::1789758381
+::res://builds/web/::1789758381
+index.apple-touch-icon.png::CompressedTexture2D::4129218720755635594::1789756175::1789591453::1::::<><><>0<>0<>44d120a7ae2716953a1ba27059254902<>res://.godot/imported/index.apple-touch-icon.png-829bd6566b1ab329ce6e0fe101c50e36.ctex::
+index.icon.png::CompressedTexture2D::301807347522938816::1789756175::1789591453::1::::<><><>0<>0<>7132b9ef743cbbd46f872ff15f7672f3<>res://.godot/imported/index.icon.png-1d537cdb021c40f184d1277d96fd0f0f.ctex::
+index.png::CompressedTexture2D::239628558690118602::1789756175::1789591453::1::::<><><>0<>0<>0d09e7f93bb1fb2db0701a3ce81bc629<>res://.godot/imported/index.png-2770f543c84e6b55d99f3bb624b49866.ctex::
+::res://fonts/::1789758381
 Better VCR 9.0.1.ttf::FontFile::525264482665087361::1788615118::1789382890::1::::<><><>0<>0<>8d43a50de6a81ca6d2e0f8885d97867a<>res://.godot/imported/Better VCR 9.0.1.ttf-0b419d366d973ba1e1c2e6cc67cd81b7.fontdata::
 Crackman.otf::FontFile::8409775716835545339::1788615118::1789382889::1::::<><><>0<>0<>f2dd4031c9271265ef834194efd2619e<>res://.godot/imported/Crackman.otf-07c10da7ed8c2bafac2e3556ecebe10c.fontdata::
 Pixelout Personal Use Only.ttf::FontFile::8579063965188338490::1705929405::1789421714::1::::<><><>0<>0<>54f39d1c9804b60c06c87ea65dafe714<>res://.godot/imported/Pixelout Personal Use Only.ttf-5d74747d771ee6c0e25e31a8ee2ec18f.fontdata::
-::res://graphics/::1789424363
+::res://graphics/::1789758382
 map.png::CompressedTexture2D::8154739344879193416::1789424362::1789424363::1::::<><><>0<>0<>219b8eea25924c4b39ef0368583c17ae<>res://.godot/imported/map.png-4c90a2691f1826b62871a53c820579c2.ctex::
-::res://graphics/cars/::1789421806
+::res://graphics/cars/::1789758382
 green.png::CompressedTexture2D::8921634929582336167::1789421760::1789421806::1::::<><><>0<>0<>078591b37dde64353729b5c02cf6c60f<>res://.godot/imported/green.png-d28274fa609b805fd959f559bdba4d8f.ctex::
 red.png::CompressedTexture2D::987328342467456120::1789417516::1789419855::1::::<><><>0<>0<>556da895b292eeaa931a703ff378a03f<>res://.godot/imported/red.png-51ddd5de1dc8feccc945a4baf874f0d3.ctex::
 yellow.png::CompressedTexture2D::7448227804407725056::1789417771::1789419855::1::::<><><>0<>0<>07c2fd3ba648deb2ad0c4de1ee3f4445<>res://.godot/imported/yellow.png-4c060fe8254603acf62781ecd3bf39dd.ctex::
-::res://graphics/objects/::1789421806
+::res://graphics/objects/::1789758382
 barrier.png::CompressedTexture2D::6896529938505155778::1789419047::1789419855::1::::<><><>0<>0<>13bd4839ba84fe7928f2dc108162d5ef<>res://.godot/imported/barrier.png-d2e97a63c5048a3bb9b830d4bb07b1c6.ctex::
 bench.png::CompressedTexture2D::6429655348521337844::1789418994::1789419855::1::::<><><>0<>0<>d5eda31ffc23ab4e7155e6d6c70c17b2<>res://.godot/imported/bench.png-3aee9bd1c27c595cfd48123167057493.ctex::
 bin.png::CompressedTexture2D::2682534749361739666::1789418941::1789419855::1::::<><><>0<>0<>cb20d88ff12138525d6859538e811140<>res://.godot/imported/bin.png-e97ea6b5936d84f01b2dcca24830f780.ctex::
@@ -45,10 +46,10 @@ traffic.png::CompressedTexture2D::5133731283848118079::1789418124::1789419855::1
 tree1.png::CompressedTexture2D::8952052314239774675::1789419336::1789419855::1::::<><><>0<>0<>2d76277e61a693c164a7b3903d0ec15e<>res://.godot/imported/tree1.png-bfe3ba1424c73f70b9664efe47fff273.ctex::
 tree2.png::CompressedTexture2D::1743130296563490364::1789419100::1789419855::1::::<><><>0<>0<>77e690f9019976749dce4b90216de985<>res://.godot/imported/tree2.png-41c170419ac41ac379bbfdd2b3f6275e.ctex::
 tree potted.png::CompressedTexture2D::3389544860567921485::1789418006::1789419855::1::::<><><>0<>0<>444af9e31bd639958fbc034e4fbe105d<>res://.godot/imported/tree potted.png-500e30dcffdb189ddfcf9f6ad3dd724c.ctex::
-::res://graphics/player/::1789417059
+::res://graphics/player/::1789758382
 player_simple.png::CompressedTexture2D::3101742799475853270::1789417056::1789417059::1::::<><><>0<>0<>1c5e0eae2902f400d93138ed015c3d2b<>res://.godot/imported/player_simple.png-da0d067e94fb2205dce5f6ce7ba473b7.ctex::
 player_tileset.png::CompressedTexture2D::6843235375669234817::1789417048::1789417059::1::::<><><>0<>0<>21c29d67251e95d2bb7dfe9729d2bb88<>res://.godot/imported/player_tileset.png-4ca3aae43be08322f35644f77e38bfeb.ctex::
-::res://scenes/::1789591258
+::res://scenes/::1789758382
 box.tscn::PackedScene::7079896307954955148::1788615118::0::1::::<><><>0<>0<><>::uid://y78osdw0bolc::::res://graphics/objects/box1.png
 car.gd::GDScript::5046749174891820167::1789408245::0::1::::<>Area2D<><>0<>0<><>::
 Car.tscn::PackedScene::8585008359859541334::1789591233::0::1::::<><><>0<>0<><>::uid://ded8huv3lr1a7::::res://graphics/cars/yellow.png<>uid://cd5xhsevs1vit::::res://scenes/car.gd<>uid://bltpvqao25x1o::::res://audio/tanweraman-car-pass-by-337871.mp3<>uid://ltov35wcmnrq::::res://audio/km007-car-pass-by-9111.mp3<>uid://h5b6brejantc::::res://audio/spinopel-passing-car-393073.mp3<>uid://drskhx8r2bfb2::::res://audio/dragon-studio-car-honk-386166.mp3

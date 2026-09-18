@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Frogger (4.5)"
+config/name="JayWalk"
 run/main_scene="uid://b0tbk6vy37k2q"
 config/features=PackedStringArray("4.5", "Forward Plus")
 run/max_fps=60
